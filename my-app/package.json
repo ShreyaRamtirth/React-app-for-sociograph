@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://shreyaramtirth.github.io/React-app-for-sociograph/",
+  "homepage":"http://shreyaramtirth.github.io/React-app-for-sociograph",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
