@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-app-for-sociograph/static/css/main.6b1e92cc.chunk.css",
+    "main.js": "/React-app-for-sociograph/static/js/main.89686b91.chunk.js",
+    "main.js.map": "/React-app-for-sociograph/static/js/main.89686b91.chunk.js.map",
+    "runtime-main.js": "/React-app-for-sociograph/static/js/runtime-main.343eb834.js",
+    "runtime-main.js.map": "/React-app-for-sociograph/static/js/runtime-main.343eb834.js.map",
+    "static/js/2.f069ff9d.chunk.js": "/React-app-for-sociograph/static/js/2.f069ff9d.chunk.js",
+    "static/js/2.f069ff9d.chunk.js.map": "/React-app-for-sociograph/static/js/2.f069ff9d.chunk.js.map",
+    "static/js/3.991123af.chunk.js": "/React-app-for-sociograph/static/js/3.991123af.chunk.js",
+    "static/js/3.991123af.chunk.js.map": "/React-app-for-sociograph/static/js/3.991123af.chunk.js.map",
+    "index.html": "/React-app-for-sociograph/index.html",
+    "static/css/main.6b1e92cc.chunk.css.map": "/React-app-for-sociograph/static/css/main.6b1e92cc.chunk.css.map",
+    "static/js/2.f069ff9d.chunk.js.LICENSE.txt": "/React-app-for-sociograph/static/js/2.f069ff9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.343eb834.js",
+    "static/js/2.f069ff9d.chunk.js",
+    "static/css/main.6b1e92cc.chunk.css",
+    "static/js/main.89686b91.chunk.js"
+  ]
+}
